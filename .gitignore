@@ -1,0 +1,7 @@
+src/server/bin/
+src/server/obj/
+node_modules/
+semantic/
+
+*.dll
+*.pdb
